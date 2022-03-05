@@ -48,9 +48,9 @@ mylist=np.array([
 ["Mihovilovic 2021", 38,  0.878,  0.032,  "https://doi.org/10.1140/epja/s10050-021-00414-x" ],
 ["Atac 2021",        39,  0.852,  0.009,  "https://doi.org/10.1140/epja/s10050-021-00389-9"],
 ["Lin 2021",         40,  0.838,  0.005,  "https://doi.org/10.1016/j.physletb.2021.136254"],
-["Cui 2021",        41,  0.847,  0.008,  "https://doi.org/110.1103/PhysRevLett.127.092001"],
-["Lin 2022",        42,  0.840,  0.003,  "https://doi.org/10.1103/PhysRevLett.128.052002"],
-["Gramolin 2022",           43,  0.889,  0.007,  "https://doi.org/10.1103/PhysRevD.105.054004"]
+["Cui 2021",         41,  0.847,  0.008,  "https://doi.org/110.1103/PhysRevLett.127.092001"],
+["Lin 2022",         42,  0.840,  0.003,  "https://doi.org/10.1103/PhysRevLett.128.052002"],
+["Gramolin 2022",    43,  0.889,  0.007,  "https://doi.org/10.1103/PhysRevD.105.054004"]
 ])
 
 x  = mylist[:,2].astype(np.float)
