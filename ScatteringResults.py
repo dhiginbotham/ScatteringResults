@@ -43,14 +43,15 @@ mylist=np.array([
 ["Alarcon 2019",     33,  0.844,  0.007,  "https://doi.org/10.1103/PhysRevC.99.044303"  ],
 ["Zhou 2019",        34,  0.845,  0.001,  "https://doi.org/10.1103/PhysRevC.99.055202"  ],
 ["Xiong 2019",       35,  0.831,  0.013,  "https://doi.org/10.1038/s41586-019-1721-2"  ],
-["Alarcon 2020",     36,  0.842,  0.010,  "https://doi.org/10.1103/PhysRevC.102.035203"  ],
-["Hayward 2020",     37,  0.842,  0.004,  "https://doi.org/10.1016/j.nuclphysa.2020.121767"],
-["Mihovilovic 2021", 38,  0.878,  0.032,  "https://doi.org/10.1140/epja/s10050-021-00414-x" ],
-["Atac 2021",        39,  0.852,  0.009,  "https://doi.org/10.1140/epja/s10050-021-00389-9"],
-["Lin 2021",         40,  0.838,  0.005,  "https://doi.org/10.1016/j.physletb.2021.136254"],
-["Cui 2021",         41,  0.847,  0.008,  "https://doi.org/110.1103/PhysRevLett.127.092001"],
-["Lin 2022",         42,  0.840,  0.003,  "https://doi.org/10.1103/PhysRevLett.128.052002"],
-["Gramolin 2022",    43,  0.889,  0.007,  "https://doi.org/10.1103/PhysRevD.105.054004"]
+["Mihovilovic 2020", 36,  0.851,  0.019,  "https://doi.org/10.3389/fphy.2020.00036"], 
+["Alarcon 2020",     37,  0.842,  0.010,  "https://doi.org/10.1103/PhysRevC.102.035203"  ],
+["Hayward 2020",     38,  0.842,  0.004,  "https://doi.org/10.1016/j.nuclphysa.2020.121767"],
+["Mihovilovic 2021", 39,  0.878,  0.032,  "https://doi.org/10.1140/epja/s10050-021-00414-x" ],
+["Atac 2021",        40,  0.852,  0.009,  "https://doi.org/10.1140/epja/s10050-021-00389-9"],
+["Lin 2021",         41,  0.838,  0.005,  "https://doi.org/10.1016/j.physletb.2021.136254"],
+["Cui 2021",         42,  0.847,  0.008,  "https://doi.org/110.1103/PhysRevLett.127.092001"],
+["Lin 2022",         43,  0.840,  0.003,  "https://doi.org/10.1103/PhysRevLett.128.052002"],
+["Gramolin 2022",    44,  0.889,  0.007,  "https://doi.org/10.1103/PhysRevD.105.054004"]
 ])
 
 x  = mylist[:,2].astype(np.float)
@@ -72,11 +73,11 @@ plt.yticks(y, labels, rotation='horizontal',fontsize=8)
 plt.xticks(xaxis, xaxis, rotation='horizontal')
 plt.xlabel('Radius [fm]')
 plt.xlim(0.76,0.94)
-plt.plot([0.875,0.875],[1.5,42.5],'-',color='grey',lw=18,zorder=1,label='CODATA-2014')
-plt.annotate('CODATA-2014',xy=(0.855,44),color='black')
-plt.plot([0.84087,0.84087],[0.5,43.5],'-',color='black',lw=1,zorder=1,label='$\mu H$')
+plt.plot([0.875,0.875],[1.5,43.5],'-',color='grey',lw=18,zorder=1,label='CODATA-2014')
+plt.annotate('CODATA-2014',xy=(0.855,45),color='black')
+plt.plot([0.84087,0.84087],[0.5,44.5],'-',color='black',lw=1,zorder=1,label='$\mu H$')
 #plt.plot([0.875,0.875],[0,30.5],'-',color='black',lw=2,zorder=1,label='$\mu H$')
-plt.annotate('$\mu$H',xy=(0.8345,44))
+plt.annotate('$\mu$H',xy=(0.8345,45))
 plt.tight_layout()
 plt.savefig('ScatteringResults.png')
 plt.savefig('ScatteringResults.pdf')
