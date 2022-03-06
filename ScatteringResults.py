@@ -33,7 +33,7 @@ mylist=np.array([
 ["Sick 2012",        23,  0.886,  0.008,  "https://doi.org/10.1016/j.ppnp.2012.01.013"],
 ["Adamuscin 2012",   24,  0.849,  0.007,  "https://doi.org/10.1016/j.ppnp.2012.01.014"],
 ["Lorenz 2012",      25,  0.840,  0.01,   "https://doi.org/10.1140/epja/i2012-12151-1"],
-["Graczky 2014",     26,  0.899,  0.003,  "https://doi.org/10.1103/PhysRevC.90.054334"],
+["Graczyk 2014",     26,  0.899,  0.003,  "https://doi.org/10.1103/PhysRevC.90.054334"],
 ["Lorenz 2015",      27,  0.843,  0.004,  "https://doi.org/10.1103/PhysRevD.91.014023"],
 ["Arrington 2015",   28,  0.879,  0.011,  "https://doi.org/10.1063/1.4921430"],
 ["Lee 2015",         29,  0.904,  0.015,  "https://doi.org/10.1103/PhysRevD.92.013013"],
