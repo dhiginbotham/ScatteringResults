@@ -1,43 +1,43 @@
 Gramolin 2022: https://doi.org/10.1103/PhysRevD.105.054004 <br>
-Lin 2022: https://doi.org/10.1103/PhysRevLett.128.052002 
-Cui 2021: https://doi.org/10.1103/PhysRevLett.127.092001 
-Lin 2021: https://doi.org/10.1016/j.physletb.2021.136254 
-Atac 2021: https://doi.org/10.1140/epja/s10050-021-00389-9 
-Mihovilovic 2021: https://doi.org/10.1140/epja/s10050-021-00414-x 
-Hayward 2020: https://doi.org/10.1016/j.nuclphysa.2020.121767 
-Alarcon 2020: https://doi.org/10.1103/PhysRevC.102.035203 
-Xiong 2019: https://doi.org/10.1038/s41586-019-1721-2 
-Zhou 2019: https://doi.org/10.1103/PhysRevC.99.055202 
-Alarcon 2019: https://doi.org/10.1103/PhysRevC.99.044303 
-Horbatsch 2017: https://doi.org/10.1103/PhysRevC.95.035203 
-Higinbotham 2016: https://doi.org/10.1103/PhysRevC.93.055207 
-Griffioen 2016: https://doi.org/10.1103/PhysRevC.93.065207 
-Lee 2015: https://doi.org/10.1103/PhysRevD.92.013013 
-Arrington 2015: https://doi.org/10.1063/1.4921430 
-Lorenz 2015: https://doi.org/10.1103/PhysRevD.91.014023 
-Graczky 2014: https://doi.org/10.1103/PhysRevC.90.054334 
-Lorenz 2012: https://doi.org/10.1140/epja/i2012-12151-1 
-Adamuscin 2012: https://doi.org/10.1016/j.ppnp.2012.01.014 
-Sick 2012: https://doi.org/10.1016/j.ppnp.2012.01.013 
-Zhan 2011: https://doi.org/10.1016/j.physletb.2011.10.002 
-Ron 2011: https://doi.org/10.1103/PhysRevC.84.055204 
-Borisyuk 2010: https://doi.org/10.1016/j.nuclphysa.2010.05.054 
-Hill 2010: https://doi.org/10.1103/PhysRevD.82.113005 
-Bernauer 2010: https://doi.org/10.1103/PhysRevLett.105.242001 
-Belushkin 2007: https://doi.org/10.1103/PhysRevC.75.035202 
-Blunden 2005: https://doi.org/10.1103/PhysRevC.72.057601 
-Kelly 2004: https://doi.org/10.1103/PhysRevC.70.068202 
-Sick 2003: https://doi.org/10.1016/j.physletb.2003.09.092 
-Eschrich 2001: https://doi.org/10.1016/S0370-2693(01)01285-0 
-Rosenfelder 2000: https://doi.org/10.1016/S0370-2693(00)00316-6 
-Mergell 1996: https://doi.org/10.1016/0375-9474(95)00339-8 
-Wong 1994: https://doi.org/10.1142/S0218301394000255 
-McCord 1991: https://doi.org/10.1016/0168-583X(91)96079-Z 
-Simon 1980: https://doi.org/10.1016/0375-9474(80)90104-9 
-Hohler 1976: https://doi.org/10.1016/0550-3213(76)90449-1 
-Borkowski 1975: https://doi.org/10.1007/BF01409496 
-Borkowski 1974: https://doi.org/10.1016/0550-3213(75)90514-3 
-Murphy 1974: https://doi.org/10.1103/PhysRevC.9.2125 
-Akimov 1972: http://www.jetp.ac.ru/cgi-bin/dn/e_035_04_0651.pdf 
-Frerejacque 1966: https://doi.org/10.1103/PhysRev.141.1308 
-Hand 1963: https://doi.org/10.1103/RevModPhys.35.335
+Lin 2022: https://doi.org/10.1103/PhysRevLett.128.052002 <br>
+Cui 2021: https://doi.org/10.1103/PhysRevLett.127.092001 <br>
+Lin 2021: https://doi.org/10.1016/j.physletb.2021.136254 <br>
+Atac 2021: https://doi.org/10.1140/epja/s10050-021-00389-9 <br>
+Mihovilovic 2021: https://doi.org/10.1140/epja/s10050-021-00414-x <br>
+Hayward 2020: https://doi.org/10.1016/j.nuclphysa.2020.121767 <br>
+Alarcon 2020: https://doi.org/10.1103/PhysRevC.102.035203 <br>
+Xiong 2019: https://doi.org/10.1038/s41586-019-1721-2 <br>
+Zhou 2019: https://doi.org/10.1103/PhysRevC.99.055202 <br>
+Alarcon 2019: https://doi.org/10.1103/PhysRevC.99.044303 <br>
+Horbatsch 2017: https://doi.org/10.1103/PhysRevC.95.035203 <br>
+Higinbotham 2016: https://doi.org/10.1103/PhysRevC.93.055207 <br>
+Griffioen 2016: https://doi.org/10.1103/PhysRevC.93.065207 <br>
+Lee 2015: https://doi.org/10.1103/PhysRevD.92.013013 <br>
+Arrington 2015: https://doi.org/10.1063/1.4921430 <br>
+Lorenz 2015: https://doi.org/10.1103/PhysRevD.91.014023 <br> 
+Graczky 2014: https://doi.org/10.1103/PhysRevC.90.054334 <br>
+Lorenz 2012: https://doi.org/10.1140/epja/i2012-12151-1 <br>
+Adamuscin 2012: https://doi.org/10.1016/j.ppnp.2012.01.014 <br>
+Sick 2012: https://doi.org/10.1016/j.ppnp.2012.01.013 <br>
+Zhan 2011: https://doi.org/10.1016/j.physletb.2011.10.002 <br>
+Ron 2011: https://doi.org/10.1103/PhysRevC.84.055204 <br>
+Borisyuk 2010: https://doi.org/10.1016/j.nuclphysa.2010.05.054 <br> 
+Hill 2010: https://doi.org/10.1103/PhysRevD.82.113005 <br>
+Bernauer 2010: https://doi.org/10.1103/PhysRevLett.105.242001 <br> 
+Belushkin 2007: https://doi.org/10.1103/PhysRevC.75.035202 <br>
+Blunden 2005: https://doi.org/10.1103/PhysRevC.72.057601 <br>
+Kelly 2004: https://doi.org/10.1103/PhysRevC.70.068202 <br>
+Sick 2003: https://doi.org/10.1016/j.physletb.2003.09.092 <br>
+Eschrich 2001: https://doi.org/10.1016/S0370-2693(01)01285-0 <br>
+Rosenfelder 2000: https://doi.org/10.1016/S0370-2693(00)00316-6 <br>
+Mergell 1996: https://doi.org/10.1016/0375-9474(95)00339-8 <br>
+Wong 1994: https://doi.org/10.1142/S0218301394000255 <br>
+McCord 1991: https://doi.org/10.1016/0168-583X(91)96079-Z <br> 
+Simon 1980: https://doi.org/10.1016/0375-9474(80)90104-9 <br>
+Hohler 1976: https://doi.org/10.1016/0550-3213(76)90449-1 <br>
+Borkowski 1975: https://doi.org/10.1007/BF01409496 <br>
+Borkowski 1974: https://doi.org/10.1016/0550-3213(75)90514-3 <br>
+Murphy 1974: https://doi.org/10.1103/PhysRevC.9.2125 <br>
+Akimov 1972: http://www.jetp.ac.ru/cgi-bin/dn/e_035_04_0651.pdf <br>
+Frerejacque 1966: https://doi.org/10.1103/PhysRev.141.1308 <br>
+Hand 1963: https://doi.org/10.1103/RevModPhys.35.335 <br>
